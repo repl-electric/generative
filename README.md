@@ -6,6 +6,11 @@ ____ ____ _  _ ____ ____ ____ ___ _ _  _ ______________________
 
 A space for generative coded pieces
 
+## Compositions
+
+* People and Noise: https://github.com/repl-electric/generative/tree/master/people_and_noise
+
+
 ##License
 
 Copyright © 2015 Joseph Wilk
