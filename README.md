@@ -13,7 +13,7 @@ A space for generative coded pieces
 
 ##License
 
-Copyright © 2015 Joseph Wilk
+Copyright © 2015-2016 Joseph Wilk
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
